@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "dacjangiot",
+    "description": "An empty new project",
+    "slug": "dacjangiot",
+    "privacy": "public",
+    "sdkVersion": "22.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/dacjang.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4"]
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "personal.smartfarm.dacjangiot"
+    }
+  }
+}
